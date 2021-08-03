@@ -1,6 +1,15 @@
 .icons{
-    color:red;
+   color: black;
     font-size:30px;
+}
+
+
+.cross{
+color: blue;
+}
+
+.circle{
+    color:red;
 }
 
 body{
